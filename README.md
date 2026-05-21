@@ -1,4 +1,4 @@
-# Diagrama-ER-Oficina
+# Esquema-Conceitual-Oficina
 <h1 align="center">🔧 Sistema de Gerenciamento de Oficina Mecânica</h1>
 <p align="center">
   Modelagem de banco de dados relacional para gestão completa de uma oficina mecânica —
@@ -12,4 +12,5 @@
 
 
   📋 Sobre o projeto
+  
 Este projeto apresenta a modelagem de um banco de dados relacional para o gerenciamento de uma oficina mecânica. O diagrama ER cobre todos os processos operacionais do negócio — desde a entrada do veículo e o diagnóstico da equipe até a execução dos serviços, controle de peças em estoque e emissão da Ordem de Serviço (OS).
